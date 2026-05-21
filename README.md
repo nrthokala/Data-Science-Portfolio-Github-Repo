@@ -696,15 +696,15 @@ Each project includes some combination of:
 * A clear business problem
 * Realistic synthetic data
 * Modular Python source code
-* Command-line execution
-* Dashboard-ready CSV extracts
+* Command line execution
+* Dashboard ready CSV extracts
 * Tableau or Power BI implementation guidance
 * Professional reports and case studies
 * Model artifacts or analysis outputs
 * Visualizations
 * Tests or validation checks
 * Business recommendations
-* Recruiter-friendly documentation
+* Recruiter friendly documentation
 
 ---
 
