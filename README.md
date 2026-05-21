@@ -1,6 +1,6 @@
 # Neeraj Thokala | Data Science, BI & Machine Learning Portfolio
 
-Welcome to my professional analytics portfolio. This repository brings together **8 end to end projects** across data analytics, business intelligence, data science, machine learning engineering, experimentation, forecasting, customer analytics, pricing analytics, supply chain analytics, recommendation systems, and fraud detection.
+Welcome to my professional analytics portfolio. This repository brings together **8 projects** across data analytics, business intelligence, data science, machine learning engineering, experimentation, forecasting, customer analytics, pricing analytics, supply chain analytics, recommendation systems, and fraud detection.
 
 Each project is designed to feel like a real workplace deliverable: reproducible code, realistic synthetic data, dashboard ready extracts, statistical rigor, machine learning pipelines, business case studies, visual outputs, testing, and stakeholder ready documentation.
 
