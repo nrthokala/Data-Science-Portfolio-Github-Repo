@@ -618,8 +618,8 @@ For a quick review, start with:
 
 **Name:** Neeraj Thokala
 **Email:** [neerajthokala@gmail.com](mailto:neerajthokala@gmail.com)
-**GitHub:** `https://github.com/YOUR-USERNAME`
-**LinkedIn:** `https://www.linkedin.com/in/YOUR-LINKEDIN/`
+**GitHub:** `https://github.com/nrthokala`
+**LinkedIn:** `https://www.linkedin.com/in/neeraj-thokala/`
 
 ---
 
